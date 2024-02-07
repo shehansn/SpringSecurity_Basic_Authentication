@@ -1,0 +1,2 @@
+# SpringSecurity_Basic_Authentication
+this is spring security basic authentication implementation application
